@@ -6,7 +6,7 @@ const pigLatin = process(
 );
 
 /*
-console.log(pigLatin("Child") === 'Ildchay');
-console.log(pigLatin("Happy") === 'Appyhay');
-console.log(pigLatin("Awesome") === "Awesomeway");
+  console.log(pigLatin("Child") === 'Ildchay');
+  console.log(pigLatin("Happy") === 'Appyhay');
+  console.log(pigLatin("Awesome") === "Awesomeway");
 */
